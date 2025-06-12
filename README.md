@@ -1,31 +1,51 @@
-<<<<<<< HEAD
-# LojaGames
+📱 Loja de Games - E-commerce Angular
+Projeto desenvolvido como atividade prática do curso, implementando uma loja virtual (e-commerce) utilizando Angular, Bootstrap e Angular Material.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
+📌 Objetivo
+Desenvolver uma aplicação de loja virtual (e-commerce) utilizando:
+✅ Angular (Framework front-end)
+✅ TypeScript (Linguagem base)
+✅ Bootstrap (Estilização responsiva)
+✅ Angular Material (Componentes UI modernos)
 
-## Development server
+🛠️ Funcionalidades Implementadas
+✔ Página Inicial
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Layout responsivo com menu, conteúdo e rodapé
 
-## Code scaffolding
+Exibição de produtos em formato de cards
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Integração com Angular Material e Bootstrap
 
-## Build
+✔ Tela de Login
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Formulário com validação de usuário e senha
 
-## Running unit tests
+Design moderno com Angular Material (MatFormField, MatInput, MatButton)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+✔ Navegação
 
-## Running end-to-end tests
+Barra de menu com roteamento entre páginas
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Componentes reutilizáveis
 
-## Further help
+⚙️ Tecnologias Utilizadas
+Tecnologia-	Finalidade
+Angular	-Framework front-end
+TypeScript -	Tipagem e estrutura OOP
+Bootstrap	Estilização responsiva
+Angular Material	Componentes UI prontos (botões, cards, formulários)
+HTML5 & CSS3	Estrutura e estilização complementar
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-=======
-# lh-games-loja
->>>>>>> 12ab528d1a08037bcaf6be35d3618f14eceaad71
+📝 Notas do Desenvolvimento
+Desafios: Integração entre Angular Material e Bootstrap
+
+Aprendizados: Estruturação de componentes reutilizáveis
+
+Melhorias Futuras: Carrinho de compras, integração com API real
+
+Desenvolvido por Vitória Arfre
+📧 Contato: lopesarfre2402@gmail.com
+
+
+
